@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E_medical3</string>
+    <string name="verify" translatable="true">Verify Person</string>
+    <string name="current_location" translatable="true">Current location</string>
+    <string name="not_available" translatable="true">Not available</string>
+    <string name="classification" translatable="true">Result</string>
+
+</resources>
