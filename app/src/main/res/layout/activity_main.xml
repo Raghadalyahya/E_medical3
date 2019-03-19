@@ -87,7 +87,7 @@
             android:layout_marginLeft="98dp"
             android:layout_marginBottom="193dp"
             android:background="@color/AliceBlue"
-            android:text="SEARCH"
+            android:text="SEARCH?"
             android:textColor="@color/white"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
